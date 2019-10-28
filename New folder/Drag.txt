@@ -1,0 +1,5 @@
+Dragstart-drag olmaga bawlayanda (bawlangic)
+dragover- goturduyun weyi neyinse ustune getirende 
+dragend- miwkadan elimiz cekende baw verir
+drop - goturfuyun weyi biraxdiqdan sora
+ 
